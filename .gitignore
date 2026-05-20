@@ -1,0 +1,10 @@
+target/
+*.class
+*.jar
+*.war
+.idea/
+*.iml
+.mvn/
+node_modules/
+screenshot.js
+capture.ps1
