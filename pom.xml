@@ -17,7 +17,7 @@
 
     <properties>
         <java.version>21</java.version>
-        <sonar.projectKey>com.universidad:productos-service</sonar.projectKey>
+        <sonar.projectKey>yeremy0418_silva-post2-u10</sonar.projectKey>
         <sonar.projectName>Productos Service</sonar.projectName>
         <sonar.host.url>http://localhost:9000</sonar.host.url>
         <sonar.organization>yeremy0418</sonar.organization>
