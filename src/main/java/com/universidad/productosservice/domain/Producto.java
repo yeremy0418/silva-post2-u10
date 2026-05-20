@@ -34,15 +34,9 @@ public class Producto {
     }
 
     public boolean esMismoPrecio(Producto otro) {
-        return precio == otro.precio;
+        return Double.compare(precio, otro.precio) == 0;
     }
 
     public void procesar() {
-        int x = 5;
-        if (x > 0) {
-            return;
-        } else {
-            return;
-        }
     }
 }
